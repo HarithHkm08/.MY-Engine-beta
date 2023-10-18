@@ -1,2 +1,1 @@
-# .MY Engine beta
- This is the beta phase of the .MY Engine
+Abandoned project, you may leave this page alone
